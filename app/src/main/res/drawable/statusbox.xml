@@ -1,0 +1,6 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#1E1E1E"/> <!-- Kolor wypełnienia -->
+    <corners android:radius="20dp"/> <!-- Zaokrąglenie obramowania -->
+    <stroke android:width="3dp" android:color="#FFFFFF"/> <!-- Grubość i kolor obramowania -->
+    <padding android:left="16dp" android:right="16dp" android:top="12dp" android:bottom="12dp"/> <!-- Marginesy wewnętrzne -->
+</shape>

@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"> <!-- Owalny kształt-->
+    <solid android:color="#FFFFFF"/> <!-- Biały kolor wypełnienia -->
+    <stroke android:width="3dp" android:color="#222"/> <!-- Grubość i kolor obramowania -->
+</shape>
